@@ -1,0 +1,28 @@
+name: David Doxtater
+favicon: null
+layout_spectrum: 0.5055370316840708
+typography_spectrum: 0.6648663554806262
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4919870097655803
+  lightness: 0.471917228307575
+  saturation: 0.6468573808670044
+  rhythmicContrast: 0.8458874195348471
+purpose: []
